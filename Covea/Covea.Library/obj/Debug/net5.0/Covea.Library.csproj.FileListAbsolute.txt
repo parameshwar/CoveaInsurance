@@ -1,0 +1,12 @@
+C:\Users\vigne\source\repos\Covea\Covea.Library\bin\Debug\net5.0\Covea.Library.deps.json
+C:\Users\vigne\source\repos\Covea\Covea.Library\bin\Debug\net5.0\Covea.Library.dll
+C:\Users\vigne\source\repos\Covea\Covea.Library\bin\Debug\net5.0\ref\Covea.Library.dll
+C:\Users\vigne\source\repos\Covea\Covea.Library\bin\Debug\net5.0\Covea.Library.pdb
+C:\Users\vigne\source\repos\Covea\Covea.Library\obj\Debug\net5.0\Covea.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vigne\source\repos\Covea\Covea.Library\obj\Debug\net5.0\Covea.Library.AssemblyInfoInputs.cache
+C:\Users\vigne\source\repos\Covea\Covea.Library\obj\Debug\net5.0\Covea.Library.AssemblyInfo.cs
+C:\Users\vigne\source\repos\Covea\Covea.Library\obj\Debug\net5.0\Covea.Library.csproj.CoreCompileInputs.cache
+C:\Users\vigne\source\repos\Covea\Covea.Library\obj\Debug\net5.0\Covea.Library.dll
+C:\Users\vigne\source\repos\Covea\Covea.Library\obj\Debug\net5.0\ref\Covea.Library.dll
+C:\Users\vigne\source\repos\Covea\Covea.Library\obj\Debug\net5.0\Covea.Library.pdb
+C:\Users\vigne\source\repos\Covea\Covea.Library\obj\Debug\net5.0\Covea.Library.csprojAssemblyReference.cache
